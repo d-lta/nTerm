@@ -1,0 +1,4 @@
+if CMD and CMD.theme and CMD.theme.run then
+    CMD.theme.run({"nano"})
+    print("Theme set to nano")
+end

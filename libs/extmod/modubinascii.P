@@ -1,0 +1,82 @@
+build/py/../extmod/modubinascii.o: ../py/../extmod/modubinascii.c \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/stdio.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/_ansi.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/include/newlib.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/include/_newlib_version.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/config.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/machine/ieeefp.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/features.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/cdefs.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/machine/_default_types.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/lib/gcc/arm-none-eabi/14.2.0/include/stddef.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/lib/gcc/arm-none-eabi/14.2.0/include/stdarg.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/reent.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/_ansi.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/_types.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/machine/_types.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/lock.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/stdio.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/assert.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/string.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/_locale.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/strings.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/string.h \
+ ../py/nlr.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/lib/gcc/arm-none-eabi/14.2.0/include/limits.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/lib/gcc/arm-none-eabi/14.2.0/include/syslimits.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/limits.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/syslimits.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/setjmp.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/machine/setjmp.h \
+ ../py/mpconfig.h mpconfigport.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/alloca.h \
+ ../py/runtime.h ../py/mpstate.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/lib/gcc/arm-none-eabi/14.2.0/include/stdint.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/stdint.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/_intsup.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/_stdint.h \
+ ../py/misc.h \
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/lib/gcc/arm-none-eabi/14.2.0/include/stdbool.h \
+ ../py/obj.h ../py/qstr.h build/genhdr/qstrdefs.generated.h \
+ ../py/objlist.h ../py/objexcept.h ../py/objtuple.h ../py/binary.h
+../py/../extmod/modubinascii.c :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/stdio.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/_ansi.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/include/newlib.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/include/_newlib_version.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/config.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/machine/ieeefp.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/features.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/cdefs.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/machine/_default_types.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/lib/gcc/arm-none-eabi/14.2.0/include/stddef.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/lib/gcc/arm-none-eabi/14.2.0/include/stdarg.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/reent.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/_ansi.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/_types.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/machine/_types.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/lock.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/stdio.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/assert.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/string.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/_locale.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/strings.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/string.h :
+ ../py/nlr.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/lib/gcc/arm-none-eabi/14.2.0/include/limits.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/lib/gcc/arm-none-eabi/14.2.0/include/syslimits.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/limits.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/syslimits.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/setjmp.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/machine/setjmp.h :
+ ../py/mpconfig.h mpconfigport.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/alloca.h :
+ ../py/runtime.h ../py/mpstate.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/lib/gcc/arm-none-eabi/14.2.0/include/stdint.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/stdint.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/_intsup.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/arm-none-eabi/sys-include/sys/_stdint.h :
+ ../py/misc.h :
+ /home/achyutk/Ndless/ndless-sdk/toolchain/install/lib/gcc/arm-none-eabi/14.2.0/include/stdbool.h :
+ ../py/obj.h ../py/qstr.h build/genhdr/qstrdefs.generated.h :
+ ../py/objlist.h ../py/objexcept.h ../py/objtuple.h ../py/binary.h :
